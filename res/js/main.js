@@ -7,5 +7,5 @@ cookie.onclick = () => {
     //zvednout cislo o 1
 numberOfCookies = numberOfCookies + 1 
     //zobrazit v odstavci
-    counter.innerText = "Zabitých nechutných smurf catů :" + numberOfCookies;
+    counter.innerText = "Zabitých smurf catů :" + numberOfCookies;
 }
